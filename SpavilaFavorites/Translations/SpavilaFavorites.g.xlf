@@ -3,50 +3,105 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="SpavilaFavorites">
     <body>
       <group id="body">
-        <trans-unit id="Table 1185973591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Favorito de Usuario</source>
+        <trans-unit id="PageExtension 3431860378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Favoritos en Facturas de Compra</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoiceExt_LDR - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1185973591 - Field 3355177194 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Es Favorito</source>
+        <trans-unit id="PageExtension 3431860378 - Control 2777438981 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Marcar como favorito para este registro.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field Is Favorite - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1185973591 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ID de Registro</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field Record ID - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1185973591 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Usuario</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field User ID - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoiceExt_LDR - Control IsFavorite_LDR - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1303062991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
           <source>Favoritos en Facturas de Compra</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1303062991 - Action 2333040205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
-          <source>Marcar o desmarcar este registro como favorito.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Action ToggleFavorite_LDR - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1303062991 - Action 2333040205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
-          <source>Marcar/Desmarcar Favorito</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Action ToggleFavorite_LDR - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 1303062991 - Control 2777438981 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
-          <source>Marcar como favorito para recordar este registro durante pruebas.</source>
+          <source>Filtrar por favoritos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Control IsFavorite_LDR - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1303062991 - Control 2777438981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
-          <source>★</source>
+          <source>Es Favorito</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Control IsFavorite_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3752805539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Favoritos en Ficha Oferta Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuoteCardExt_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3752805539 - Control 2354945595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Marcar como favorito.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuoteCardExt_LDR - Control IsFavoriteQuote_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3752805539 - Control 2354945595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Es Favorito (Oferta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuoteCardExt_LDR - Control IsFavoriteQuote_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049611050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1819353702">
+          <source>Favoritos en Ofertas de Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuotesExt_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049611050 - Control 2354945595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1819353702">
+          <source>Filtrar por favoritos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuotesExt_LDR - Control IsFavoriteQuote_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049611050 - Control 2354945595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1819353702">
+          <source>Es Favorito (Oferta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseQuotesExt_LDR - Control IsFavoriteQuote_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2290762378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Favoritos en Ficha Pedido Venta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderCardExt_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2290762378 - Control 3584272103 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Marcar como favorito.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderCardExt_LDR - Control IsFavoriteSalesOrder_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2290762378 - Control 3584272103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Es Favorito (Pedido Venta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderCardExt_LDR - Control IsFavoriteSalesOrder_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2918724956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Favoritos en Pedidos de Venta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderListExt_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2918724956 - Control 3584272103 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Filtrar por favoritos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderListExt_LDR - Control IsFavoriteSalesOrder_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2918724956 - Control 3584272103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Es Favorito (Pedido Venta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderListExt_LDR - Control IsFavoriteSalesOrder_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2445557504 - Field 2777438981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Es Favorito</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderFavoriteExt_LDR - Field IsFavorite_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2445557504 - Field 2354945595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Es Favorito (Oferta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseQuoteFavoriteExt_LDR - Field IsFavoriteQuote_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1637968882 - Field 3584272103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Es Favorito (Pedido Venta)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesOrderFavoriteExt_LDR - Field IsFavoriteSalesOrder_LDR - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 616033555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Favoritos de Usuario</source>

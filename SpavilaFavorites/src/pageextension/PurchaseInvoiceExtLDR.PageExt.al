@@ -1,5 +1,5 @@
 
-pageextension 50111 "PurchaseInvoicesExt_LDR" extends "Purchase Invoices"
+pageextension 50112 "PurchaseInvoiceExt_LDR" extends "Purchase Invoice"
 {
     Caption = 'Favoritos en Facturas de Compra';
 
@@ -12,10 +12,15 @@ pageextension 50111 "PurchaseInvoicesExt_LDR" extends "Purchase Invoices"
             field(IsFavorite_LDR; Rec.IsFavorite_LDR)
             {
                 ApplicationArea = All;
-                Caption = 'Es Favorito';
-                ToolTip = 'Filtrar por favoritos.';
-                Editable = false;
+                ToolTip = 'Marcar como favorito para este registro.';
+                Editable = true;
             }
         }
     }
+
+
+
+
+
+
 }
