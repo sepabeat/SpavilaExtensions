@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SpavilaFavorites">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1185973591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorito de Usuario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1185973591 - Field 3355177194 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Es Favorito</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field Is Favorite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1185973591 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID de Registro</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1185973591 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserFavorite - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1303062991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
+          <source>Favoritos en Facturas de Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1303062991 - Action 2333040205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
+          <source>Marcar o desmarcar este registro como favorito.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Action ToggleFavorite_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1303062991 - Action 2333040205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
+          <source>Marcar/Desmarcar Favorito</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Action ToggleFavorite_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1303062991 - Control 2777438981 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
+          <source>Marcar como favorito para recordar este registro durante pruebas.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Control IsFavorite_LDR - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1303062991 - Control 2777438981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4037192291">
+          <source>★</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseInvoicesExt_LDR - Control IsFavorite_LDR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 616033555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favoritos de Usuario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet FAVORITOSUSER_LDR - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
